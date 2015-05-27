@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoogleMaps</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="map1">Terreno</string>
+    <string name="map2">Hibrido</string>
+    <string name="map3">Satelite</string>
+    <string name="map4">Normal</string>
+    <string name="map5">None</string>
+
+</resources>
